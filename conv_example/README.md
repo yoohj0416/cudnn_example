@@ -1,0 +1,2 @@
+make
+./conv <image-path>
